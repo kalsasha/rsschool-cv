@@ -1,1 +1,2 @@
-# rsschool-cv
+https://kalsasha.github.io/rsschool-cv/
+
