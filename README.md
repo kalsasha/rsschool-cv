@@ -1,1 +1,2 @@
-https://kalsasha.github.io/rsschool-cv/cv
+https://kalsasha.github.io/rsschool-cv/
+
